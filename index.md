@@ -24,7 +24,7 @@ permalink:  /
 <a name="/bio"></a>
 # Bio
 
-I am a Pre-Doctoral Researcher at [Google Research India](https://research.google/locations/india/), working in the [MASSI lab](https://blog.google/technology/ai/30-new-ai-for-social-good-projects/) mentored by [Prof. Milind Tambe](https://teamcore.seas.harvard.edu/tambe). My work focuses on developing robust bandit algorithms for efficiently delivering health awareness information in underserved communities in India. My CV is available <a href="https://vermashresth.github.io/img/CV_Arshika_AK.pdf" target="_blank">here</a>.
+I am a Pre-Doctoral Researcher at [Google Research India](https://research.google/locations/india/), working in the [MASSI lab](https://blog.google/technology/ai/30-new-ai-for-social-good-projects/) mentored by [Prof. Milind Tambe](https://teamcore.seas.harvard.edu/tambe). My work focuses on developing robust bandit algorithms for efficiently delivering health awareness information in underserved communities in India. My CV is available <a href="https://arshika77.github.io/img/CV_Arshika_AK.pdf" target="_blank">here</a>.
 
 Previously, I was a Research Assistant at the [Kreiman Lab](https://klab.tch.harvard.edu/) at Harvard University where I worked on adopting continual learning algorithms for continuous domain adaptations.
 

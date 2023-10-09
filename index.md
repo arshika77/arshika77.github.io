@@ -34,7 +34,7 @@ I'm interested in Continual Learning and Multi-agent Systems with applications i
     <div class="col-lg-3">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="//https://www.bits-pilani.ac.in/goa/"><img style="width:60px;" src="/img/logos/BITS_Pilani-Logo.svg.png"></a>
+            <a href="//https://www.bits-pilani.ac.in/goa/"><img style="width:150px;" src="/img/logos/BITS_Pilani-Logo.svg.png"></a>
         </div>
         <div class="logo-desc">
             BITS Pilani<br>

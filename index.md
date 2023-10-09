@@ -34,7 +34,7 @@ I'm interested in Continual Learning and Multi-agent Systems with applications i
     <div class="col-lg-3">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="//https://www.bits-pilani.ac.in/goa/"><img style="width:60px;" src="/img/logos/Logo.jpg"></a>
+            <a href="//https://www.bits-pilani.ac.in/goa/"><img style="width:60px;" src="/img/logos/BITS_Pilani-Logo.scg.png"></a>
         </div>
         <div class="logo-desc">
             BITS Pilani<br>
@@ -44,7 +44,7 @@ I'm interested in Continual Learning and Multi-agent Systems with applications i
     <div class="col-lg-3">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="//https://www.microsoft.com/en-in"><img style="width:150px;" src="/img/logos/uhg2.jpg"></a>
+            <a href="//https://www.microsoft.com/en-in"><img style="width:150px;" src="/img/logos/Microsoft_logo.png"></a>
         </div>
         <div class="logo-desc">
             Microsoft<br>
@@ -54,7 +54,7 @@ I'm interested in Continual Learning and Multi-agent Systems with applications i
     <div class="col-lg-3">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="//https://www.harvard.edu/"><img style="width:150px;" src="/img/logos/uhg2.jpg"></a>
+            <a href="//https://www.harvard.edu/"><img style="width:150px;" src="/img/logos/Harvard_shield_wreath.png"></a>
         </div>
         <div class="logo-desc">
             Harvard University<br>

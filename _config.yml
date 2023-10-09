@@ -1,9 +1,9 @@
 encoding: utf-8
-name: Shresth Verma
-url: http://vermashresth.com
+name: Arshika Lalan
+url: https://arshika77.github.io
 author:
-  name: Shresth Verma
-  email: vermashresth@gmail.com
+  name: Arshika Lalan
+  email: arshika77@gmail.com
 description: Pre-Doctoral Researcher at Google AI.
 permalink: /posts/:title/
 include: ['_pages']

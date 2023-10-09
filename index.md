@@ -74,17 +74,19 @@ I'm interested in Continual Learning and Multi-agent Systems with applications i
 </div>
 
 
-I graduated from [Birla Institute of Technology and Science (BITS), Pilani](https://www.bits-pilani.ac.in/goa/) in 2022. At BITS, I was mentored by [Prof. Snehanshu Saha](https://www.bits-pilani.ac.in/goa/snehanshu-saha/) and [Dr. Basabdatta Sen Bhattacharya](https://www.bits-pilani.ac.in/goa/basabdatta-bhattacharya/). I also have a deep appreciation for teaching , and I have experience as a Teaching Assistant(TA) in three courses: Object-Oriented Programming, Database Systems, and Econometric Methods.In my free time, I served as a volunteer instructor in Mathematics and English for women and children hailing from the underprivileged families that contributed to the campus's operations.
+I graduated from [Birla Institute of Technology and Science (BITS), Pilani](https://www.bits-pilani.ac.in/goa/) in 2022. At BITS, I was mentored by [Prof. Snehanshu Saha](https://www.bits-pilani.ac.in/goa/snehanshu-saha/) and [Dr. Basabdatta Sen Bhattacharya](https://www.bits-pilani.ac.in/goa/basabdatta-bhattacharya/). I also have a deep appreciation for teaching , and I have experience as a Teaching Assistant (TA) in three courses: Object-Oriented Programming, Database Systems, and Econometric Methods. In my free time, I served as a volunteer instructor in Mathematics and English for women and children hailing from the underprivileged families that contributed to the campus's operations.
 
 ---
 
 <a name="/news"></a>
 # Updates
-- [May 23] Our work on **Analyzing and Predicting Low-Listenership Trends in a Large-Scale Mobile Health Program: A Preliminary Investigation** was accepted at ** at the **Data Science for Social Good Workshop, KDD 2023** as an **Oral Presentation**
+- [May 23] Our work on **Analyzing and Predicting Low-Listenership Trends in a Large-Scale Mobile Health Program: A Preliminary Investigation** was accepted at the **Data Science for Social Good Workshop, KDD 2023** as an **Oral Presentation**
 - [Dec 22] Our work on **Adherence Bandits**, a specialized RMAB subclass designed to address the
 complexities of adherence within the domain of public health got accepted at the **Artificial Intelligence for Social Good Workshop, AAAI 2023**
 - [Aug 22] Joined [Google AI India](https://research.google/locations/india/) as Pre-Doctoral Reseacher! Working with [Milind Tambe(https://teamcore.seas.harvard.edu/tambe) within [MASSI](https://ai.google/social-good/).
 - [Aug 21] Joined the [Kreiman Lab](https://klab.tch.harvard.edu/) at Harvard University!
+- [Oct 21] Our work on ** a biologically inspired an SNN-based SDM utilizing N-of-M encoding** was aceepted at the Bernstein Conference 2021.
+- [Aug 20] Accepted to [CBMM's](https://cbmm.mit.edu/) [Brain, Minds and Machines](https://cbmm.mit.edu/summer-school) Summer School!
 
 
 <div id="read-more-button">
@@ -98,22 +100,22 @@ complexities of adherence within the domain of public health got accepted at the
 # Publications
 
 <a name="/youdescribe-descriptions-1"></a>
-<h2 class="pubt">Increasing Impact of Mobile Health Programs: SAHELI for Maternal and Child Care</h2>
+<h2 class="pubt">Improving Health Information Access in the World’s Largest Maternal Mobile
+Health Program via Bandit Algorithms</h2>
 <p class="pubd">
-    <span class="authors">Shresth Verma, Gargi Singh, Aditya Mate, Paritosh verma, Sruti Gorantala, Neha Madhiwala, Aparna hegde, Divy Thakker, Manish Jain, Milind Tambe, Aparna Taneja  </span> <br>
-    <span class="conf">IAAI 2023, Best Innovative Application Award</span> <span class="links">
-        <a target="_blank" href="https://aaai.org/Conferences/AAAI-23/iaai-23-call/">Paper</a>
+    <span class="authors">A Lalan*, S Verma*, P Diaz, P Danassis, A Mahale, K Sudan, A Hegde, M Tambe, A Taneja  </span> <br>
+    <span class="conf">Preprint 2023 (Under Review at IAAI 2024)</span> <span class="links">
+        <a target="_blank" href="">Paper</a>
     </span>
 </p>
 <!-- <img src="/img/aamas.png"> -->
 <!-- <hr> -->
 
 <a name="/youdescribe-descriptions-1"></a>
-<h2 class="pubt">Understanding Decision Focused Learning in Restless Multiarmed Bandit Problem through Large Scale
-Field Study</h2>
+<h2 class="pubt">Analyzing and Predicting Low-Listenership Trends in a Large-Scale Mobile Health Program: A Preliminary Investigation</h2>
 <p class="pubd">
-    <span class="authors">Shresth Verma, Aditya Mate, Kai Wang, Aparna Taneja, Milind Tambe</span><br> 
-    <span class="conf">NeurIPS 2022 Workshop on Trustworthy and Socially Responsible ML</span>  <span class="links">
+    <span class="authors">A Lalan, S Verma, K Sudan, A Mahale, A Hegde, M Tambe, A Taneja</span><br> 
+    <span class="conf">Oral Presentation @ Data Science for Social Good Workshop, KDD 2023</span>  <span class="links">
         <a target="_blank" href="https://tsrml2022.github.io">Paper</a>
     </span>
 </p>
@@ -122,11 +124,10 @@ Field Study</h2>
 
 
 <a name="/youdescribe-descriptions-1"></a>
-<h2 class="pubt">Field Study in Deploying Restless Multi-Armed Bandits: Assisting Non-profits in Improving Maternal and
-Child Health</h2>
+<h2 class="pubt">Adherence Bandits</h2>
 <p class="pubd">
-    <span class="authors">Aditya Mate, Lovish Madaan, Aparna Taneja, Neha Madhiwala, Shresth Verma, Gargi Singh, Aparna Hegde, Pradeep Varakantham, Milind Tambe</span> <br>
-    <span class="conf">AAAI 2022</span>  <span class="links">
+    <span class="authors">J Killian*, A Lalan*, A Mate*, M Jain, A Taneja, M Tambe</span> <br>
+    <span class="conf">Artificial Intelligence for Social Good Workshop, AAAI 2023</span>  <span class="links">
         <a target="_blank" href="https://ojs.aaai.org/index.php/AAAI/article/view/21460">Paper</a>
     </span>
 </p>
@@ -135,10 +136,10 @@ Child Health</h2>
 
 
 <a name="/youdescribe-descriptions-1"></a>
-<h2 class="pubt">Towards Sample Efficient Learners in Population based Referential Games through Action Advising</h2>
+<h2 class="pubt">Continual Learning and Out of Domain Generalization in Continuous Domain Adaptation</h2>
 <p class="pubd">
-    <span class="authors">Shresth Verma</span><br>
-    <span class="conf">AAMAS 2021</span>  <span class="links">
+    <span class="authors">A Lalan, S Mandan, M Zhang, G Kreiman</span><br>
+    <span class="conf">Preprint 2022</span>  <span class="links">
         <a target="_blank" href="http://www.ifaamas.org/Proceedings/aamas2021/pdfs/p1689.pdf">Paper</a>
     </span>
 </p>
@@ -146,9 +147,9 @@ Child Health</h2>
 <!-- <hr> -->
 
 <a name="/habitat-objnav"></a>
-<h2 class="pubt">Emergence of Writing Systems through Multi-Agent Cooperation (Student Abstract)</h2>
+<h2 class="pubt">Sparse Distributed Memory Using Spiking Neural Networks on Nengo</h2>
 <p class="pubd">
-    <span class="authors">Shresth Verma, Joydip Dhar</span><br>
+    <span class="authors">R Ajwani, A Lalan, B Bhattacharya, J Bose</span><br>
     <span class="conf">AAAI 2020</span> 
     <span class="links">
         <a target="_blank" href="https://ojs.aaai.org/index.php/AAAI/article/view/7243">Paper</a>
@@ -158,10 +159,10 @@ Child Health</h2>
 <!-- <hr> -->
 
 <a name="/forcenet"></a>
-<h2 class="pubt">Emergence of Multilingualism in Population based Referential Games</h2>
+<h2 class="pubt">Epigraphiology: A Graph Network driven Measure for Influence Diffusion of Scientific Articles</h2>
 <p class="pubd">
-    <span class="authors">Shresth Verma</span><br>
-    <span class="conf">ICML Language in Reinforcement Learning Workshop 2020</span>
+    <span class="authors">S Dey, S Kotian, S Saha, A Agarwal, A Lalan, G Sampatrao</span><br>
+    <span class="conf">Preprint 2021</span>
     <span class="links">
         <a target="_blank" href="https://larel-ws.github.io/assets/pdfs/emergence_of_multilingualism_in_population_based_referential_games.pdf">Paper</a>
     </span>
@@ -171,10 +172,10 @@ Child Health</h2>
 
 
 <a name="/habitat-pointnav-aux"></a>
-<h2 class="pubt">Deep Reinforcement Learning for Single-Shot Diagnosis and Adaptation in Damaged Robots</h2>
+<h2 class="pubt">Stock Price and Job Growth: A Causal Influence Study</h2>
 <p class="pubd">
-    <span class="authors">Shresth Verma, Haritha S. Nair, Gaurav Agarwal, Joydip Dhar, Anupam Shukla</span><br>
-    <span class="conf">ACM CoDS-COMAD 2020</span>
+    <span class="authors">A Lalan, A Agarwal, S Saha, S Kar</span><br>
+    <span class="conf">Preprint 2021</span>
     <span class="links">
         <a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3371158.3371168">Paper</a>
     </span>
@@ -182,18 +183,6 @@ Child Health</h2>
 <!-- <img src="/img/damage-rl.png"> -->
 <!-- <hr> -->
 
-
-<a name="/habitat-pointnav-aux"></a>
-<h2 class="pubt">IIITM Face: A Database for Facial Attribute Detection in Constrained and Simulated Unconstrained Environments</h2>
-<p class="pubd">
-    <span class="authors">KV Arya, Shresth Verma, Raj Kuwar Gupta, Soumya Agarwal, Prince Gupta</span><br>
-    <span class="conf">ACM CoDS-COMAD 2020</span>
-    <span class="links">
-        <a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3371158.3371182">Paper</a>
-    </span>
-</p>
-<!-- <img src="/img/face-iiitm.png"> -->
-<!-- <hr> -->
 
 <script src="/js/jquery.min.js"></script>
 <script type="text/javascript">

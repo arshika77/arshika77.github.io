@@ -34,11 +34,11 @@ I'm interested in Continual Learning and Multi-agent Systems with applications i
     <div class="col-lg-3">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="//https://www.bits-pilani.ac.in/goa/"><img style="width:60px;" src="/img/logos/BITS_Pilani-Logo.scg.png"></a>
+            <a href="//https://www.bits-pilani.ac.in/goa/"><img style="width:60px;" src="/img/logos/BITS_Pilani-Logo.svg.png"></a>
         </div>
         <div class="logo-desc">
             BITS Pilani<br>
-            2015 - 2020
+            2017 - 2022
         </div>
     </div>
     <div class="col-lg-3">
@@ -48,7 +48,7 @@ I'm interested in Continual Learning and Multi-agent Systems with applications i
         </div>
         <div class="logo-desc">
             Microsoft<br>
-            S2019, 2020-2021
+            2021
         </div>
     </div>
     <div class="col-lg-3">
@@ -58,7 +58,7 @@ I'm interested in Continual Learning and Multi-agent Systems with applications i
         </div>
         <div class="logo-desc">
             Harvard University<br>
-            S2019, 2020-2021
+            2021-2022
         </div>
     </div>
     <div class="col-lg-3">
@@ -68,7 +68,7 @@ I'm interested in Continual Learning and Multi-agent Systems with applications i
         </div>
         <div class="logo-desc">
             Google AI<br>
-            2021 - present
+            2022 - present
         </div>
     </div>
 </div>

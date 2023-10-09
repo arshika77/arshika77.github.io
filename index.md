@@ -64,10 +64,10 @@ I'm interested in Continual Learning and Multi-agent Systems with applications i
     <div class="col-lg-3">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="//https://research.google/locations/india/"><img style="width:150px;" src="/img/logos/gglai.png"></a>
+            <a href="//https://research.google/locations/india/"><img style="width:150px;" src="/img/logos/Google-Research.png"></a>
         </div>
         <div class="logo-desc">
-            Google AI<br>
+            Google Research<br>
             2022 - present
         </div>
     </div>

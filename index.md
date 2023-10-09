@@ -10,8 +10,9 @@ permalink:  /
     </div>
     <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
        Pre-Doctoral Researcher<br>
-        Google Research<br>
-        vermashresth@google.com
+        Google Research (arshikal@google.com)<br>
+        arshika77@gmail.com<br>
+        f20170620g@alumni.bits-pilani.ac.in
         <br>
         <br>
         Developing Multi-Agent systems for bringing Social Impact at Scale
@@ -25,10 +26,10 @@ permalink:  /
 
 I am a Pre-Doctoral Researcher at [Google Research India](https://research.google/locations/india/), working in the [AI for Social Good lab](https://blog.google/technology/ai/30-new-ai-for-social-good-projects/) mentored by [Prof. Milind Tambe](https://teamcore.seas.harvard.edu/tambe). My work focuses on developing robust bandit algorithms for efficiently delivering health awareness information in underserved communities in India.
 
-I'm interested in reinforcement learning and multi-agent systems with applications in robotics, public health and environmental conservation. I want to develop agents that learn behaviours which are transferable to real-world domains, are scalable through communication and are understandable and acceptable by humans.
+I'm interested in computer vision and multi-agent systems with applications in robotics, public health and social impact. I want to develop agents that learn behaviours which are transferable to real-world domains, are scalable through communication and are understandable and acceptable by humans.
 
-Previously, I was a Data Scientist at United Health Group where I worked on modelling healthcare risks for millions of beneficiaries.
-My CV is available <a href="https://vermashresth.github.io/img/Shresth_CV_Research_Clean%20(4).pdf" target="_blank">here</a>
+Previously, I was a Research Assistant at the Kreiman Lab at Harvard University where I worked on adopting continual learning algorithms for continuous domain adaptations.
+My CV is available <a href="https://vermashresth.github.io/img/CV_Arshika_AK.pdf" target="_blank">here</a>
 .
 
 <div class="row" id="timeline-logos">
@@ -38,7 +39,7 @@ My CV is available <a href="https://vermashresth.github.io/img/Shresth_CV_Resear
             <a href="//iiitm.ac.in/"><img style="width:60px;" src="/img/logos/Logo.jpg"></a>
         </div>
         <div class="logo-desc">
-            IIIT Gwalior<br>
+            BITS Pilani<br>
             2015 - 2020
         </div>
     </div>
@@ -48,7 +49,17 @@ My CV is available <a href="https://vermashresth.github.io/img/Shresth_CV_Resear
             <a href="//https://www.unitedhealthgroup.com/"><img style="width:150px;" src="/img/logos/uhg2.jpg"></a>
         </div>
         <div class="logo-desc">
-            UnitedHealth Group<br>
+            Microsoft<br>
+            S2019, 2020-2021
+        </div>
+    </div>
+    <div class="col-lg-3">
+        <div class="logo-wrap">
+            <span class="helper"></span>
+            <a href="//https://www.unitedhealthgroup.com/"><img style="width:150px;" src="/img/logos/uhg2.jpg"></a>
+        </div>
+        <div class="logo-desc">
+            Harvard University<br>
             S2019, 2020-2021
         </div>
     </div>

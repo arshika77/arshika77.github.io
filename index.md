@@ -10,9 +10,9 @@ permalink:  /
     </div>
     <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
        Pre-Doctoral Researcher<br>
-        Google Research (arshikal@google.com)<br>
-        arshika77@gmail.com<br>
-        f20170620g@alumni.bits-pilani.ac.in
+        Google Research (arshikal at google dot com)<br>
+        arshika77 at gmail dot com<br>
+        f20170620g at alumni dot bits hyphen pilani dot ac dot in
         <br>
         <br>
         Developing Multi-Agent systems for bringing Social Impact at Scale

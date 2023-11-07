@@ -6,7 +6,7 @@ permalink:  /
 
 <div class="row">
     <div class="col-sm-4 col-xs-8">
-        <img src="/img/arshika.jpeg">
+        <img src="/img/arshika2.jpeg">
     </div>
     <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
        Pre-Doctoral Researcher<br>

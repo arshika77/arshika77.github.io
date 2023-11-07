@@ -80,7 +80,9 @@ I graduated from [Birla Institute of Technology and Science (BITS), Pilani](http
 
 <a name="/news"></a>
 # Updates
-- [May 23] Our work on **Analyzing and Predicting Low-Listenership Trends in a Large-Scale Mobile Health Program: A Preliminary Investigation** was accepted at the **Data Science for Social Good Workshop, KDD 2023** as an **Oral Presentation**
+- [Oct 23] Our work on **Improving Health Information Access in the World’s Largest Maternal Mobile
+Health Program via Bandit Algorithms** was accepted at the **Innovative Applications of Artificial Intelligence 2024** as an **Oral Presentation**
+- [May 23] Our preliminary work on **Analyzing and Predicting Low-Listenership Trends in a Large-Scale Mobile Health Program** was accepted at the **Data Science for Social Good Workshop, KDD 2023** as an **Oral Presentation**
 - [Dec 22] Our work on **Adherence Bandits**, a specialized RMAB subclass designed to address the
 complexities of adherence within the domain of public health got accepted at the **Artificial Intelligence for Social Good Workshop, AAAI 2023**
 - [Aug 22] Joined [Google AI India](https://research.google/locations/india/) as Pre-Doctoral Reseacher! Working with [Milind Tambe(https://teamcore.seas.harvard.edu/tambe) within [MASSI](https://ai.google/social-good/).

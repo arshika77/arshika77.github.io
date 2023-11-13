@@ -130,7 +130,7 @@ Health Program via Bandit Algorithms</h2>
 <p class="pubd">
     <span class="authors">J Killian*, A Lalan*, A Mate*, M Jain, A Taneja, M Tambe</span> <br>
     <span class="conf">Artificial Intelligence for Social Good Workshop, AAAI 2023</span>  <span class="links">
-        <a target="_blank" href="https://ojs.aaai.org/index.php/AAAI/article/view/21460">Paper</a>
+        <a target="_blank" href="https://amulyayadav.github.io/AI4SG2023/images/40.pdf">Paper</a>
     </span>
 </p>
 <!-- <img src="/img/aamas.png"> -->
@@ -154,7 +154,7 @@ Health Program via Bandit Algorithms</h2>
     <span class="authors">R Ajwani, A Lalan, B Bhattacharya, J Bose</span><br>
     <span class="conf">AAAI 2020</span> 
     <span class="links">
-        <a target="_blank" href="https://ojs.aaai.org/index.php/AAAI/article/view/7243">Paper</a>
+        <a target="_blank" href="https://arxiv.org/pdf/2109.03111.pdf">Paper</a>
     </span>
 </p>
 <!-- <img src="/img/written.png"> -->
@@ -166,7 +166,7 @@ Health Program via Bandit Algorithms</h2>
     <span class="authors">S Dey, S Kotian, S Saha, A Agarwal, A Lalan, G Sampatrao</span><br>
     <span class="conf">Preprint 2021</span>
     <span class="links">
-        <a target="_blank" href="https://larel-ws.github.io/assets/pdfs/emergence_of_multilingualism_in_population_based_referential_games.pdf">Paper</a>
+        <a target="_blank" href="">Paper</a>
     </span>
 </p>
 <!-- <img src="/img/multilang.png"> -->

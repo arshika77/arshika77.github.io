@@ -179,7 +179,7 @@ Health Program via Bandit Algorithms</h2>
     <span class="authors">A Lalan, A Agarwal, S Saha, S Kar</span><br>
     <span class="conf">Preprint 2021</span>
     <span class="links">
-        <a target="_blank" href="https://dl.acm.org/doi/abs/10.1145/3371158.3371168">Paper</a>
+        <a target="_blank" href="https://arshika77.github.io/img/SAGE_CAUSAL_INFERENCE.pdf">Paper</a>
     </span>
 </p>
 <!-- <img src="/img/damage-rl.png"> -->

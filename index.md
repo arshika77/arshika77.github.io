@@ -28,7 +28,7 @@ I am a Pre-Doctoral Researcher at [Google Research India](https://research.googl
 
 Previously, I was a Research Assistant at the [Kreiman Lab](https://klab.tch.harvard.edu/) at Harvard University where I worked on adopting continual learning algorithms for continuous domain adaptations.
 
-I'm interested in Continual Learning and Multi-agent Systems with applications in autonomous robotics, public health and social impact. I want to develop agents that can provide adaptive, efficient and personalized solutions in a fast-changing world.
+I'm interested in Continual Learning and Multi-agent Systems with applications in developing lasrge-scale, robust and adaptable AI/ML systems, specifically in public health and social impact domains. I want to develop agents that can provide adaptive, efficient and personalized solutions in a fast-changing world.
 
 <div class="row" id="timeline-logos">
     <div class="col-lg-3">
@@ -118,7 +118,7 @@ Health Program via Bandit Algorithms</h2>
 <p class="pubd">
     <span class="authors">A Lalan, S Verma, K Sudan, A Mahale, A Hegde, M Tambe, A Taneja</span><br> 
     <span class="conf">Oral Presentation @ Data Science for Social Good Workshop, KDD 2023</span>  <span class="links">
-        <a target="_blank" href="https://tsrml2022.github.io">Paper</a>
+        <a target="_blank" href="https://arxiv.org/pdf/2311.07139.pdf">Paper</a>
     </span>
 </p>
 <!-- <img src="/img/aamas.png"> -->
@@ -161,12 +161,12 @@ Health Program via Bandit Algorithms</h2>
 <!-- <hr> -->
 
 <a name="/forcenet"></a>
-<h2 class="pubt">Epigraphiology: A Graph Network driven Measure for Influence Diffusion of Scientific Articles</h2>
+<h2 class="pubt">Epigraphiology: A Hybrid Approach for Measuring and Analyzing Influence Diffusion in Article Networks</h2>
 <p class="pubd">
     <span class="authors">S Dey, S Kotian, S Saha, A Agarwal, A Lalan, G Sampatrao</span><br>
     <span class="conf">Preprint 2021</span>
     <span class="links">
-        <a target="_blank" href="">Paper</a>
+       <!-- <a target="_blank" href="">Paper</a> --> 
     </span>
 </p>
 <!-- <img src="/img/multilang.png"> -->

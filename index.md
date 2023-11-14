@@ -142,7 +142,7 @@ Health Program via Bandit Algorithms</h2>
 <p class="pubd">
     <span class="authors">A Lalan, S Mandan, M Zhang, G Kreiman</span><br>
     <span class="conf">Undergraduate Thesis 2022</span>  <span class="links">
-        <a target="_blank" href="http://www.ifaamas.org/Proceedings/aamas2021/pdfs/p1689.pdf">Paper</a>
+        <a target="_blank" href="https://arshika77.github.io/img/Thesis.pdf">Paper</a>
     </span>
 </p>
 <!-- <img src="/img/aamas.png"> -->

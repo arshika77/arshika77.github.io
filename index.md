@@ -107,7 +107,7 @@ Health Program via Bandit Algorithms</h2>
 <p class="pubd">
     <span class="authors">A Lalan*, S Verma*, P Diaz, P Danassis, A Mahale, K Sudan, A Hegde, M Tambe, A Taneja  </span> <br>
     <span class="conf">Oral Presentation @ Innovative Applications of Artificial Intelligence (IAAI 2024)</span> <span class="links">
-        <a target="_blank" href="">Paper</a>
+   <!--      <a target="_blank" href="">Paper</a> -->
     </span>
 </p>
 <!-- <img src="/img/aamas.png"> -->
@@ -152,7 +152,7 @@ Health Program via Bandit Algorithms</h2>
 <h2 class="pubt">Sparse Distributed Memory Using Spiking Neural Networks on Nengo</h2>
 <p class="pubd">
     <span class="authors">R Ajwani, A Lalan, B Bhattacharya, J Bose</span><br>
-    <span class="conf">AAAI 2020</span> 
+    <span class="conf">Bernstein Conference 2021</span> 
     <span class="links">
         <a target="_blank" href="https://arxiv.org/pdf/2109.03111.pdf">Paper</a>
     </span>

@@ -85,7 +85,7 @@ Health Program via Bandit Algorithms** was accepted at the **Innovative Applicat
 - [May 23] Our preliminary work on **Analyzing and Predicting Low-Listenership Trends in a Large-Scale Mobile Health Program** was accepted at the **Data Science for Social Good Workshop, KDD 2023** as an **Oral Presentation**
 - [Dec 22] Our work on **Adherence Bandits**, a specialized RMAB subclass designed to address the
 complexities of adherence within the domain of public health got accepted at the **Artificial Intelligence for Social Good Workshop, AAAI 2023**
-- [Aug 22] Joined [Google AI India](https://research.google/locations/india/) as Pre-Doctoral Reseacher! Working with [Milind Tambe(https://teamcore.seas.harvard.edu/tambe) within [MASSI](https://ai.google/social-good/).
+- [Aug 22] Joined [Google AI India](https://research.google/locations/india/) as Pre-Doctoral Reseacher! Working with [Milind Tambe](https://teamcore.seas.harvard.edu/tambe) within [MASSI](https://ai.google/social-good/).
 - [Aug 21] Joined the [Kreiman Lab](https://klab.tch.harvard.edu/) at Harvard University!
 - [Oct 21] Our work on ** a biologically inspired an SNN-based SDM utilizing N-of-M encoding** was aceepted at the Bernstein Conference 2021.
 - [Aug 20] Accepted to [CBMM's](https://cbmm.mit.edu/) [Brain, Minds and Machines](https://cbmm.mit.edu/summer-school) Summer School!
@@ -106,7 +106,7 @@ complexities of adherence within the domain of public health got accepted at the
 Health Program via Bandit Algorithms</h2>
 <p class="pubd">
     <span class="authors">A Lalan*, S Verma*, P Diaz, P Danassis, A Mahale, K Sudan, A Hegde, M Tambe, A Taneja  </span> <br>
-    <span class="conf">Preprint 2023 (Under Review at IAAI 2024)</span> <span class="links">
+    <span class="conf">Oral Presentation @ Innovative Applications of Artificial Intelligence (IAAI 2024)</span> <span class="links">
         <a target="_blank" href="">Paper</a>
     </span>
 </p>
@@ -141,7 +141,7 @@ Health Program via Bandit Algorithms</h2>
 <h2 class="pubt">Continual Learning and Out of Domain Generalization in Continuous Domain Adaptation</h2>
 <p class="pubd">
     <span class="authors">A Lalan, S Mandan, M Zhang, G Kreiman</span><br>
-    <span class="conf">Preprint 2022</span>  <span class="links">
+    <span class="conf">Undergraduate Thesis 2022</span>  <span class="links">
         <a target="_blank" href="http://www.ifaamas.org/Proceedings/aamas2021/pdfs/p1689.pdf">Paper</a>
     </span>
 </p>
@@ -164,7 +164,7 @@ Health Program via Bandit Algorithms</h2>
 <h2 class="pubt">Epigraphiology: A Hybrid Approach for Measuring and Analyzing Influence Diffusion in Article Networks</h2>
 <p class="pubd">
     <span class="authors">S Dey, S Kotian, S Saha, A Agarwal, A Lalan, G Sampatrao</span><br>
-    <span class="conf">Preprint 2021</span>
+    <span class="conf">Under Review @ Journal of Scientometric Research </span>
     <span class="links">
        <!-- <a target="_blank" href="">Paper</a> --> 
     </span>

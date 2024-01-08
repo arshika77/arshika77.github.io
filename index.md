@@ -28,7 +28,7 @@ I am a Pre-Doctoral Researcher at [Google Research India](https://research.googl
 
 Previously, I was a Research Assistant at the [Kreiman Lab](https://klab.tch.harvard.edu/) at Harvard University where I worked on adopting continual learning algorithms for continuous domain adaptations.
 
-I'm interested in Continual Learning and Multi-agent Systems with applications in developing lasrge-scale, robust and adaptable AI/ML systems, specifically in public health and social impact domains. I want to develop agents that can provide adaptive, efficient and personalized solutions in a fast-changing world.
+I'm interested in Continual Learning and Multi-agent Systems with applications in developing large-scale, robust and adaptable AI/ML systems, specifically in public health and social impact domains. I want to develop agents that can provide adaptive, efficient and personalized solutions in a fast-changing world.
 
 <div class="row" id="timeline-logos">
     <div class="col-lg-3">
@@ -74,7 +74,7 @@ I'm interested in Continual Learning and Multi-agent Systems with applications i
 </div>
 
 
-I graduated from [Birla Institute of Technology and Science (BITS), Pilani](https://www.bits-pilani.ac.in/goa/) in 2022. At BITS, I was mentored by [Prof. Snehanshu Saha](https://www.bits-pilani.ac.in/goa/snehanshu-saha/) and [Dr. Basabdatta Sen Bhattacharya](https://www.bits-pilani.ac.in/goa/basabdatta-bhattacharya/). I also have a deep appreciation for teaching , and I have experience as a Teaching Assistant (TA) in three courses: Object-Oriented Programming, Database Systems, and Econometric Methods. In my free time, I served as a volunteer instructor in Mathematics and English for women and children hailing from the underprivileged families that contributed to the campus's operations.
+I graduated from [Birla Institute of Technology and Science (BITS), Pilani](https://www.bits-pilani.ac.in/goa/) in 2022. At BITS, I was mentored by [Prof. Snehanshu Saha](https://www.bits-pilani.ac.in/goa/snehanshu-saha/) and [Dr. Basabdatta Sen Bhattacharya](https://www.bits-pilani.ac.in/goa/basabdatta-bhattacharya/). I also have a deep appreciation for teaching , and I have experience as a Teaching Assistant (TA) in three courses: Object-Oriented Programming, Database Systems, and Econometric Methods. In my free time, I served as a volunteer instructor in Mathematics and English for women and children hailing from the underprivileged families that contributed to the campus's operations. I enjoy writing as a medium of creative expression and you can find some of my works [here](https://bethenovelpoet.wordpress.com/), [here](https://store.pothi.com/book/arshika-lalan-dear-diary/) and [here](https://medium.com/@arshika77).
 
 ---
 

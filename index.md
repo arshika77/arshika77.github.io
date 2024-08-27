@@ -9,13 +9,12 @@ permalink:  /
         <img src="/img/arshika2.jpeg">
     </div>
     <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
-       Pre-Doctoral Researcher<br>
-        Google Research (arshikal at google dot com)<br>
+       Masters in Machine Learning<br>
+        Carnegie Mellon University (alalan at cs dot cmu dot edu)<br>
         arshika77 at gmail dot com<br>
-        f20170620g at alumni dot bits hyphen pilani dot ac dot in
         <br>
         <br>
-        Developing Multi-Agent systems for bringing Social Impact at Scale
+        Machine Learning Theory and Applications Research
     </div>
 </div>
 <hr>
@@ -24,11 +23,11 @@ permalink:  /
 <a name="/bio"></a>
 # Bio
 
-I am a Pre-Doctoral Researcher at [Google Research India](https://research.google/locations/india/), working in the [MASSI lab](https://blog.google/technology/ai/30-new-ai-for-social-good-projects/) mentored by [Prof. Milind Tambe](https://teamcore.seas.harvard.edu/tambe). My work focuses on developing robust bandit algorithms for efficiently delivering health awareness information in underserved communities in India. My CV is available <a href="/img/CV_Arshika_Reformatted.pdf" target="_blank">here</a>.
+I am a Masters of Science student in Machine Learning at [Carnegie Mellon University](https://www.ml.cmu.edu/) where I am learning about how to conduct specialized ML theoretical and applied research through coursework in Advanced Machine Learning, Intermediate Statistics and Deep Reinforcement Learning and Control. Previously, I was a pre doctoral researcher at Google DeepMind, previously [Google Research India](https://research.google/locations/india/), working in the [MASSI lab](https://blog.google/technology/ai/30-new-ai-for-social-good-projects/) mentored by [Prof. Milind Tambe](https://teamcore.seas.harvard.edu/tambe). My work focused on developing robust bandit algorithms for efficiently delivering health awareness information in underserved communities in India. My Resume is available <a href="/img/Arshika_Lalan_Resume_Final.pdf" target="_blank">here</a>.
 
-Previously, I was a Research Assistant at the [Kreiman Lab](https://klab.tch.harvard.edu/) at Harvard University where I worked on adopting continual learning algorithms for continuous domain adaptations.
+Even before, I was a Research Assistant at the [Kreiman Lab](https://klab.tch.harvard.edu/) at Harvard University where I worked on adopting continual learning algorithms for continuous domain adaptations.
 
-I'm interested in Continual Learning and Multi-agent Systems with applications in developing large-scale, robust and adaptable AI/ML systems, specifically in public health and social impact domains. I want to develop agents that can provide adaptive, efficient and personalized solutions in a fast-changing world.
+My research interest lies in leveraging reinforcement learning and lifelong learning to develop embodied AI agents capable of sensing and interacting with a dynamic environment, driving towards more robust and adaptive AI systems. I am also interested in applying my current coursework to build and refine theoretical approaches to these challenges.
 
 <div class="row" id="timeline-logos">
     <div class="col-lg-3">
@@ -71,6 +70,16 @@ I'm interested in Continual Learning and Multi-agent Systems with applications i
             2022 - present
         </div>
     </div>
+    <div class="col-lg-3">
+        <div class="logo-wrap">
+            <span class="helper"></span>
+            <a href="https://www.ml.cmu.edu/"><img style="width:150px;" src="CMU.png"></a>
+        </div>
+        <div class="logo-desc">
+            Google Research<br>
+            2022 - present
+        </div>
+    </div>
 </div>
 
 
@@ -80,8 +89,9 @@ I graduated from [Birla Institute of Technology and Science (BITS), Pilani](http
 
 <a name="/news"></a>
 # Updates
-- [Oct 23] Our work on **Improving Health Information Access in the World’s Largest Maternal Mobile
-Health Program via Bandit Algorithms** was accepted at the **Innovative Applications of Artificial Intelligence 2024** as an **Oral Presentation**
+- [Aug 2024] Joined [Carnegie Mellon University](https://www.ml.cmu.edu/) as a masters student in the Machine Learning Department!
+- [Feb 24] Our work on **Improving Health Information Access in the World’s Largest Maternal Mobile
+Health Program via Bandit Algorithms** was accepted at the **Innovative Applications of Artificial Intelligence 2024** was presented as an **Oral Presentation** at AAAI
 - [May 23] Our preliminary work on **Analyzing and Predicting Low-Listenership Trends in a Large-Scale Mobile Health Program** was accepted at the **Data Science for Social Good Workshop, KDD 2023** as an **Oral Presentation**
 - [Dec 22] Our work on **Adherence Bandits**, a specialized RMAB subclass designed to address the
 complexities of adherence within the domain of public health got accepted at the **Artificial Intelligence for Social Good Workshop, AAAI 2023**

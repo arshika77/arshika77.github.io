@@ -73,7 +73,7 @@ My research interest lies in leveraging reinforcement learning and lifelong lear
     <div class="col-lg-3">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="https://www.ml.cmu.edu/"><img style="width:150px;" src="CMU.png"></a>
+            <a href="https://www.ml.cmu.edu/"><img style="width:150px;" src="/img/CMU.png"></a>
         </div>
         <div class="logo-desc">
             Google Research<br>
@@ -174,24 +174,15 @@ Health Program via Bandit Algorithms</h2>
 <h2 class="pubt">Epigraphiology: A Hybrid Approach for Measuring and Analyzing Influence Diffusion in Article Networks</h2>
 <p class="pubd">
     <span class="authors">S Dey, S Kotian, S Saha, A Agarwal, A Lalan, G Sampatrao</span><br>
-    <span class="conf">Under Review @ Journal of Scientometric Research </span>
+    <span class="conf">Journal of Scientometric Research </span>
     <span class="links">
-       <!-- <a target="_blank" href="">Paper</a> --> 
+       <a target="_blank" href="https://jscires.org/article/7434/">Paper</a>
     </span>
 </p>
 <!-- <img src="/img/multilang.png"> -->
 <!-- <hr> -->
 
 
-<a name="/habitat-pointnav-aux"></a>
-<h2 class="pubt">Stock Price and Job Growth: A Causal Influence Study</h2>
-<p class="pubd">
-    <span class="authors">A Lalan, A Agarwal, S Saha, S Kar</span><br>
-    <span class="conf">Preprint 2021</span>
-    <span class="links">
-        <a target="_blank" href="https://arshika77.github.io/img/SAGE_CAUSAL_INFERENCE.pdf">Paper</a>
-    </span>
-</p>
 <!-- <img src="/img/damage-rl.png"> -->
 <!-- <hr> -->
 

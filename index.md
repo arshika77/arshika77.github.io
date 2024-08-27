@@ -33,7 +33,7 @@ My research interest lies in leveraging reinforcement learning and lifelong lear
     <div class="col-lg-3">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="//https://www.bits-pilani.ac.in/goa/"><img style="width:150px;" src="/img/logos/BITS_Pilani-Logo.svg.png"></a>
+            <a href="//https://www.bits-pilani.ac.in/goa/"><img style="width:120px;" src="/img/logos/BITS_Pilani-Logo.svg.png"></a>
         </div>
         <div class="logo-desc">
             BITS Pilani<br>
@@ -43,7 +43,7 @@ My research interest lies in leveraging reinforcement learning and lifelong lear
     <div class="col-lg-3">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="//https://www.microsoft.com/en-in"><img style="width:150px;" src="/img/logos/Microsoft_logo.png"></a>
+            <a href="//https://www.microsoft.com/en-in"><img style="width:120px;" src="/img/logos/Microsoft_logo.png"></a>
         </div>
         <div class="logo-desc">
             Microsoft<br>
@@ -53,7 +53,7 @@ My research interest lies in leveraging reinforcement learning and lifelong lear
     <div class="col-lg-3">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="//https://www.harvard.edu/"><img style="width:150px;" src="/img/logos/Harvard_shield_wreath.png"></a>
+            <a href="//https://www.harvard.edu/"><img style="width:120px;" src="/img/logos/Harvard_shield_wreath.png"></a>
         </div>
         <div class="logo-desc">
             Harvard University<br>
@@ -63,21 +63,21 @@ My research interest lies in leveraging reinforcement learning and lifelong lear
     <div class="col-lg-3">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="//https://research.google/locations/india/"><img style="width:150px;" src="/img/logos/Google-Research.png"></a>
+            <a href="//https://research.google/locations/india/"><img style="width:120px;" src="/img/logos/Google-Research.png"></a>
         </div>
         <div class="logo-desc">
             Google Research<br>
-            2022 - present
+            2022 - 2024
         </div>
     </div>
     <div class="col-lg-3">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="https://www.ml.cmu.edu/"><img style="width:150px;" src="/img/CMU.png"></a>
+            <a href="https://www.ml.cmu.edu/"><img style="width:120px;" src="/img/CMU.png"></a>
         </div>
         <div class="logo-desc">
-            Google Research<br>
-            2022 - present
+            Carnegie Mellon University<br>
+            2024 - present
         </div>
     </div>
 </div>

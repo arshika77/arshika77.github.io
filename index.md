@@ -23,7 +23,7 @@ permalink:  /
 <a name="/bio"></a>
 # Bio
 
-I am a Masters of Science student in Machine Learning at [Carnegie Mellon University](https://www.ml.cmu.edu/) where I am learning about how to conduct specialized ML theoretical and applied research through coursework in Advanced Machine Learning, Intermediate Statistics and Deep Reinforcement Learning and Control. Previously, I was a pre doctoral researcher at Google DeepMind, previously [Google Research India](https://research.google/locations/india/), working in the [MASSI lab](https://blog.google/technology/ai/30-new-ai-for-social-good-projects/) mentored by [Prof. Milind Tambe](https://teamcore.seas.harvard.edu/tambe). My work focused on developing robust bandit algorithms for efficiently delivering health awareness information in underserved communities in India. My Resume is available <a href="/img/Arshika_Lalan_Resume_Final.pdf" target="_blank">here</a>.
+I am a Masters of Science student in Machine Learning at [Carnegie Mellon University](https://www.ml.cmu.edu/) where I am learning about how to conduct specialized theoretical and applied Machine Learning research through coursework in Advanced Machine Learning, Intermediate Statistics and Deep Reinforcement Learning and Control. Before this, I have worked as a pre doctoral researcher at Google DeepMind ( previously [Google Research India](https://research.google/locations/india/) ). My work focused on developing robust bandit algorithms for efficiently delivering health awareness information in underserved communities in India. My Resume is available <a href="/img/Arshika_Lalan_Resume_Final.pdf" target="_blank">here</a>.
 
 Even before, I was a Research Assistant at the [Kreiman Lab](https://klab.tch.harvard.edu/) at Harvard University where I worked on adopting continual learning algorithms for continuous domain adaptations.
 
@@ -83,7 +83,7 @@ My research interest lies in leveraging reinforcement learning and lifelong lear
 </div>
 
 
-I graduated from [Birla Institute of Technology and Science (BITS), Pilani](https://www.bits-pilani.ac.in/goa/) in 2022. At BITS, I was mentored by [Prof. Snehanshu Saha](https://www.bits-pilani.ac.in/goa/snehanshu-saha/) and [Dr. Basabdatta Sen Bhattacharya](https://www.bits-pilani.ac.in/goa/basabdatta-bhattacharya/). I also have a deep appreciation for teaching , and I have experience as a Teaching Assistant (TA) in three courses: Object-Oriented Programming, Database Systems, and Econometric Methods. In my free time, I served as a volunteer instructor in Mathematics and English for women and children hailing from the underprivileged families that contributed to the campus's operations. I enjoy writing as a medium of creative expression and you can find some of my works [here](https://bethenovelpoet.wordpress.com/), [here](https://store.pothi.com/book/arshika-lalan-dear-diary/) and [here](https://medium.com/@arshika77).
+I graduated from [Birla Institute of Technology and Science (BITS), Pilani](https://www.bits-pilani.ac.in/goa/) in 2022. I enjoy writing as a medium of creative expression and you can find some of my works [here](https://bethenovelpoet.wordpress.com/), [here](https://store.pothi.com/book/arshika-lalan-dear-diary/) and [here](https://medium.com/@arshika77). I also am a avid reader, you can find my reading list [here](https://www.goodreads.com/user/show/132288929-arshika-lalan).
 
 ---
 

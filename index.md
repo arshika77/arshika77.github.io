@@ -6,7 +6,7 @@ permalink:  /
 
 <div class="row">
     <div class="col-sm-4 col-xs-8">
-        <img src="arshika77.github.io/img/profile_photo.png">
+        <img src="img/arshika2.jpeg">
     </div>
     <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
        Masters in Machine Learning<br>

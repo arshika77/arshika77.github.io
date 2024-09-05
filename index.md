@@ -63,10 +63,10 @@ My research interest lies in leveraging reinforcement learning and lifelong lear
     <div class="col-lg-3">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="//https://research.google/locations/india/"><img style="width:120px;" src="/img/logos/Google-Research.png"></a>
+            <a href="//https://research.google/locations/india/"><img style="width:120px;" src="/img/gdm_logo.png"></a>
         </div>
         <div class="logo-desc">
-            Google Research<br>
+            Google DeepMind<br>
             2022 - 2024
         </div>
     </div>

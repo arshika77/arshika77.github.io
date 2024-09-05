@@ -40,7 +40,7 @@ My research interest lies in leveraging reinforcement learning and lifelong lear
             2017 - 2022
         </div>
     </div>
-    <div class="col-lg-3">
+    <!--- <div class="col-lg-3">
         <div class="logo-wrap">
             <span class="helper"></span>
             <a href="//https://www.microsoft.com/en-in"><img style="width:120px;" src="/img/logos/Microsoft_logo.png"></a>
@@ -49,7 +49,7 @@ My research interest lies in leveraging reinforcement learning and lifelong lear
             Microsoft<br>
             2021
         </div>
-    </div>
+    </div> --->
     <div class="col-lg-3">
         <div class="logo-wrap">
             <span class="helper"></span>

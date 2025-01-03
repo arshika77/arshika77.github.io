@@ -6,7 +6,7 @@ permalink:  /
 
 <div class="row">
     <div class="col-sm-4 col-xs-8">
-        <img src="img/arshika2.jpeg">
+        <img src="img/arshika.jpg">
     </div>
     <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
        Masters in Machine Learning<br>
@@ -31,7 +31,7 @@ Before that, I was a Research Assistant at the [Kreiman Lab](https://klab.tch.ha
 
 My research interests lie in building and refining theoretical approaches to machine learning challenges in generative AI, reinforcement learning, and language models. I aim to contribute to the development of robust and adaptive AI systems that can effectively sense, interact with, and adapt to dynamic environments.
 
-My resume is available [here](./img/Arshika_Lalan_Resume_Final.pdf).
+My resume is available [here](./img/Arshika_Lalan_Resume.pdf).
 
 <div class="row" id="timeline-logos">
     <div class="col-lg-3">

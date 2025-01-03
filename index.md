@@ -23,11 +23,15 @@ permalink:  /
 <a name="/bio"></a>
 # Bio
 
-I am a Masters of Science student in Machine Learning at [Carnegie Mellon University](https://www.ml.cmu.edu/) where I am learning about how to conduct specialized theoretical and applied Machine Learning research through coursework in Advanced Machine Learning, Intermediate Statistics and Deep Reinforcement Learning and Control. Before this, I have worked as a pre doctoral researcher at Google DeepMind ( previously [Google Research India](https://research.google/locations/india/) ). My work focused on developing robust bandit algorithms for efficiently delivering health awareness information in underserved communities in India. My Resume is available <a href="/img/Arshika_Lalan_Resume_Final.pdf" target="_blank">here</a>.
+I am a Master of Science student in Machine Learning at [Carnegie Mellon University](https://www.ml.cmu.edu/), where I am learning to conduct specialized theoretical and applied machine learning research through PhD-level coursework in Advanced Machine Learning, Intermediate Statistics, and Deep Reinforcement Learning and Control. 
 
-Even before, I was a Research Assistant at the [Kreiman Lab](https://klab.tch.harvard.edu/) at Harvard University where I worked on adopting continual learning algorithms for continuous domain adaptations.
+Previously, I worked as a predoctoral researcher at Google DeepMind (formerly [Google Research India](https://research.google/locations/india/)), focusing on developing robust reinforcement learning algorithms to build a policy for efficiently delivering health awareness information in underserved communities in India. 
 
-My research interest lies in leveraging reinforcement learning and lifelong learning to develop embodied AI agents capable of sensing and interacting with a dynamic environment, driving towards more robust and adaptive AI systems. I am also interested in applying my current coursework to build and refine theoretical approaches to these challenges.
+Before that, I was a Research Assistant at the [Kreiman Lab](https://klab.tch.harvard.edu/) at Harvard University, where I worked on adopting continual learning algorithms for continuous domain adaptation.
+
+My research interests lie in building and refining theoretical approaches to machine learning challenges in generative AI, reinforcement learning, and language models. I aim to contribute to the development of robust and adaptive AI systems that can effectively sense, interact with, and adapt to dynamic environments.
+
+My resume is available [here](./img/Arshika_Lalan_Resume_Final.pdf).
 
 <div class="row" id="timeline-logos">
     <div class="col-lg-3">

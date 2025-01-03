@@ -23,7 +23,7 @@ permalink:  /
 <a name="/bio"></a>
 # Bio
 
-I am a Master of Science student in Machine Learning at [Carnegie Mellon University](https://www.ml.cmu.edu/), where I am learning to conduct specialized theoretical and applied machine learning research through PhD-level coursework in Advanced Machine Learning, Intermediate Statistics, and Deep Reinforcement Learning and Control. 
+I am a Master of Science student in Machine Learning at [Carnegie Mellon University](https://www.ml.cmu.edu/), where I am learning to conduct specialized theoretical and applied machine learning research through PhD-level coursework. 
 
 Previously, I worked as a predoctoral researcher at Google DeepMind (formerly [Google Research India](https://research.google/locations/india/)), focusing on developing robust reinforcement learning algorithms to build a policy for efficiently delivering health awareness information in underserved communities in India. 
 

@@ -31,7 +31,7 @@ Before that, I was a Research Assistant at the [Kreiman Lab](https://klab.tch.ha
 
 My research interests lie in building and refining theoretical approaches to machine learning challenges in generative AI, reinforcement learning, and language models. I aim to contribute to the development of robust and adaptive AI systems that can effectively sense, interact with, and adapt to dynamic environments.
 
-My resume is available [here](./img/Arshika_Lalan_Resume.pdf).
+My resume is available [here](./img/Arshika_Lalan_Resume_Jan25.pdf).
 
 <div class="row" id="timeline-logos">
     <div class="col-lg-3">
